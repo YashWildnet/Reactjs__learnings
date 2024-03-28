@@ -10,7 +10,6 @@ export default function Form() {
   }
 
   async function submitForm(answer) {
-    // Pretend it's hitting the network.
     return new Promise((resolve, reject) => {
       setTimeout(() => {
         const shouldError = answer.toLowerCase() !== 'lima';

@@ -11,10 +11,10 @@ import TaskApp from './reducer';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    {/* <Form />
-     */}
+    <Form />
+    
      {/* <Information/> */}
-     <TaskApp/>
+     {/* <TaskApp/> */}
   </React.StrictMode>
 );
 

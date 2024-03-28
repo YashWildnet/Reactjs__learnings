@@ -1,0 +1,11 @@
+.maincontainer{
+    background-color: rgb(81, 92, 92);
+}
+
+.uploadercontainer{
+    background-color: rgb(217, 217, 235);
+    margin-left: 300px;
+    margin-right: 240px;
+    text-align: center;
+    overflow: scroll;
+}
